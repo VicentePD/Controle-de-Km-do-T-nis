@@ -1,0 +1,8 @@
+{
+  "name": "Controla KM do Tênis",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
